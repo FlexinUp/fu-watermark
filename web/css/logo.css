@@ -1,0 +1,13 @@
+.logo-wrapper{
+    display: flex;
+    justify-content: right;
+    align-items: flex-start;
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo-wrapper > img {
+    margin: .8vw;
+    width: 10vw;
+    height: auto;
+}
