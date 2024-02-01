@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'Ban'
+author 'FlexinUp'
 
 
 ui_page 'web/index.html'
